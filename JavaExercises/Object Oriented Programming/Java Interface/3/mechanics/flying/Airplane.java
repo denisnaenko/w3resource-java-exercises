@@ -1,4 +1,4 @@
-package org.example.mechanics.flying;
+package mechanics.flying;
 
 public class Airplane implements Flyable{
     @Override
