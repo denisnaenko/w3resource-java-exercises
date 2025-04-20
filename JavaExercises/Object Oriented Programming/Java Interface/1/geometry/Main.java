@@ -1,3 +1,10 @@
+package geometry;
+
+import geometry.shapes.Circle;
+import geometry.shapes.Rectangle;
+import geometry.shapes.Shape;
+import geometry.shapes.Triangle;
+
 public class Main {
     public static void main(String[] args) {
         Shape shape;
