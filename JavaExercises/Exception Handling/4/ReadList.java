@@ -31,5 +31,7 @@ public class ReadList {
                 System.out.println("Error: " + e.getMessage());
             }
         }
+
+        scanner.close();
     }
 }
